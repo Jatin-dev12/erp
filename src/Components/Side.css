@@ -1,0 +1,21 @@
+.left-sidebar {
+    width: 16.66666667%;
+    padding: 20px;
+    box-sizing: border-box;
+        float: left;
+  }
+  
+  .content-container {
+    width: 83.33333333%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .login-running-time {
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+  }
